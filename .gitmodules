@@ -1,0 +1,3 @@
+[submodule "cpp/ultimaille"]
+	path = cpp/ultimaille
+	url = https://github.com/ssloy/ultimaille.git

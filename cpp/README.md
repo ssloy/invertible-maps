@@ -8,7 +8,7 @@ Challenge the code with your data!
 # Compile and run:
 ```sh
 git clone --recurse-submodules https://github.com/ssloy/invertible-maps &&
-cd cpp &&
+cd invertible-maps/cpp &&
 mkdir build &&
 cd build &&
 cmake .. &&
